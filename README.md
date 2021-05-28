@@ -1,4 +1,6 @@
 "# YOLOv4_label_recognition" 
+
+# 訓練流程
 #### 本次將介紹如何透過colab 和 YOLOv4簡單訓練一個辨識模型
 
 step1:下載專案
@@ -60,9 +62,9 @@ step7:執行訓練與預測
 https://github.com/AlexeyAB/darknet  
 https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-1-5f6a70618500  
 https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-kaggle-dataset-ac1456e06604  
-
-
-
+  
+  
+  
 # 原作者文章:  
 
 # Yolo v4, v3 and v2 for Windows and Linux
