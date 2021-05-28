@@ -7,6 +7,7 @@ step1:下載專案
 ---
 1. 將專案下載至本機電腦
 2. darknet資料夾架構如下
+3. 原作者github:  https://github.com/AlexeyAB/darknet  
 
 step2:蒐集訓練資料
 ---
@@ -59,7 +60,6 @@ step7:執行訓練與預測
 
 
 ##參考資料:  
-https://github.com/AlexeyAB/darknet  
 https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-1-5f6a70618500  
 https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-kaggle-dataset-ac1456e06604  
   
