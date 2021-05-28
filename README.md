@@ -7,7 +7,8 @@ step1:下載專案
 ---
 1. 將專案下載至本機電腦
 2. darknet資料夾架構如下
-3. 原作者github:  https://github.com/AlexeyAB/darknet  
+3. 原作者github:  https://github.com/AlexeyAB/darknet
+4. 原作者提供論文:  https://github.com/AlexeyAB/darknet/blob/master/README.md  
 
 step2:蒐集訓練資料
 ---
