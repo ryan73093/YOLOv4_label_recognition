@@ -3,12 +3,14 @@
 # 訓練流程
 #### 本次將介紹如何透過colab 和 YOLOv4簡單訓練一個辨識模型
 
-step1:下載專案
+step1:下載專案與參考資料
 ---
 1. 將專案下載至本機電腦
 2. darknet資料夾架構如下
 3. 原作者github:  https://github.com/AlexeyAB/darknet
 4. 原作者提供論文:  https://github.com/AlexeyAB/darknet/blob/master/README.md  
+5. 參考資料A: https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-1-5f6a70618500  
+6. 參考資料B: https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-kaggle-dataset-ac1456e06604 
 
 step2:蒐集訓練資料
 ---
@@ -60,9 +62,7 @@ step7:執行訓練與預測
 ![](https://i.imgur.com/6XktWof.png)
 
 
-##參考資料:  
-https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-1-5f6a70618500  
-https://mrhandbyhand.medium.com/hand-by-hand-train-your-yolov4-kaggle-dataset-ac1456e06604  
+ 
   
   
   
